@@ -4,15 +4,7 @@
    "cell_type": "code",
    "execution_count": 1,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "  major minor       MP0       MP2\n0  Adam     A -0.066105  1.207174\n1   NaN     B -0.142378 -1.375775\n2   NaN     C  0.011968 -0.965784\n3   NaN     D  0.888897  0.782780\n4  Bert     A -1.095660 -1.670859\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "# iPython\n",
     "\n",
