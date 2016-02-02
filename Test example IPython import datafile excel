@@ -6,6 +6,24 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "%matplotlib inline"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from pylab import *"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
     "# iPython\n",
     "\n",
     "#iPython scripts\n",
@@ -25,28 +43,10 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    ""
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 2,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "hello = 'Hello'\n",
-    "isitmeyourlookingfor = ' is it me you are looking for?'\n",
+    "#hello = 'Hello'\n",
+    "#isitmeyourlookingfor = ' is it me you are looking for?'\n",
     "\n",
-    "print(hello + isitmeyourlookingfor)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    ""
+    "#print(hello + isitmeyourlookingfor)"
    ]
   },
   {

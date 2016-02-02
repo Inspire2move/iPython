@@ -9,9 +9,9 @@ import matplotlib as mp
 #title('title')
 #show()
 
-
+_author_ = 'wombat'
 
 hello = 'Hello'
 world = 'World'
 
-print(hello + ' ' + world)
+print(_author_ + ': ' + hello + ' ' + world)
