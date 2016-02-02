@@ -15,3 +15,11 @@ hello = 'Hello'
 world = 'World'
 
 print(_author_ + ': ' + hello + ' ' + world)
+
+
+import pandas as pd
+
+excel_datafile_MP2 = "/Users/antoinedeschipper/desktop/paneltest4.xlsx"
+dfMP2 = pd.read_excel(excel_datafile_MP2)
+
+print(dfMP2.head())
