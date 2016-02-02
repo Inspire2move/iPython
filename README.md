@@ -1,11 +1,15 @@
 # iPython
 
-Just a little test to see if version control is working
+#iPython scripts
+#Antoine de Schipper, Amsterdam University of Applied Sciences
 
 
-Very nice.. 
+import pandas as pd
 
-Finally.. This is great
+excel_datafile_MP2 = "/Users/antoinedeschipper/desktop/paneltest4.xlsx"
+dfMP2 = pd.read_excel(excel_datafile_MP2)
 
-iPython scripts
-Antoine de Schipper, Amsterdam University of Applied Sciences
+#extra regel
+#nog een extra regel
+
+print(dfMP2.head())
