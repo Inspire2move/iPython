@@ -2,7 +2,7 @@
 
 Just a little test to see if version control is working
 
-Change
+Change in master
 
 Very nice.. 
 
