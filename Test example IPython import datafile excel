@@ -1,0 +1,55 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "  major minor       MP0       MP2\n0  Adam     A -0.066105  1.207174\n1   NaN     B -0.142378 -1.375775\n2   NaN     C  0.011968 -0.965784\n3   NaN     D  0.888897  0.782780\n4  Bert     A -1.095660 -1.670859\n"
+     ]
+    }
+   ],
+   "source": [
+    "# iPython\n",
+    "\n",
+    "#iPython scripts\n",
+    "#Antoine de Schipper, Amsterdam University of Applied Sciences\n",
+    "\n",
+    "import pandas as pd\n",
+    "\n",
+    "excel_datafile_MP2 = \"/Users/antoinedeschipper/desktop/paneltest4.xlsx\"\n",
+    "dfMP2 = pd.read_excel(excel_datafile_MP2)\n",
+    "\n",
+    "print(dfMP2.head())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "hello = 'Hello'\n",
+    "isitmeyourlookingfor = ' is it me you are looking for?'\n",
+    "\n",
+    "print(hello + isitmeyourlookingfor)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    ""
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 0
+}
