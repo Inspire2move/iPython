@@ -26,6 +26,8 @@
    "source": [
     "# iPython\n",
     "\n",
+    "_author_ = 'wombat'\n",
+    "\n",
     "#iPython scripts\n",
     "#Antoine de Schipper, Amsterdam University of Applied Sciences\n",
     "\n",
