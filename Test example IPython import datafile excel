@@ -6,6 +6,28 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "# iPython\n",
+    "\n",
+    "#iPython scripts\n",
+    "#Antoine de Schipper, Amsterdam University of Applied Sciences\n",
+    "\n",
+    "import pandas as pd\n",
+    "\n",
+    "excel_datafile_MP2 = \"/Users/antoinedeschipper/desktop/paneltest4.xlsx\"\n",
+    "dfMP2 = pd.read_excel(excel_datafile_MP2)\n",
+    "\n",
+    "#extra regel\n",
+    "#nog een extra regel\n",
+    "\n",
+    "print(dfMP2.head())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
     ""
    ]
   }
